@@ -1,0 +1,26 @@
+{
+  "name": "MusicExpoPlayer",
+  "displayName": "MusicExpoPlayer",
+  "expo": {
+    "name": "MusicExpoPlayer",
+    "slug": "MusicExpoPlayer",
+    "version": "1.0.0",
+    "platforms": [
+      "ios",
+      "android",
+      "web"
+    ],
+    "assetBundlePatterns": [
+      "**/*"
+    ],
+    "splash": {
+      "image": "./assets/splash.png"
+    },
+    "privacy": "unlisted",
+    "description": "Mediaplayer with React Native and Expo",
+    "android": {
+      "package": "io.github.sergeykiskinfl.mediaplayer",
+      "versionCode": 1
+    }
+  }
+}
